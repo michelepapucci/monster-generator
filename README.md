@@ -38,12 +38,12 @@ this installs 'monster-generator' as a command-line tool.
 
 ### Generate a single monster image
 
-'''bash
+```bash
 monster-generator generate \
   --seed test123 \
   --state happy \
   --out happy.png
-'''
+```
 
 ### Generate all states variant
 
